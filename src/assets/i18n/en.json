@@ -1,0 +1,24 @@
+{
+  "header": {
+    "nameHeader": "Lorem ipsum",
+    "profile": "Candidate profile",
+    "background": "Professional background ",
+    "experience": "Professional experience",
+    "ademic": "Academic Background",
+    "courses": "Extracurricular courses ",
+    "languanges": "Languanges"
+  },
+  "context": {
+    "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse suscipit, libero et bibendum aliquam, quam felis laoreet dolor, a malesuada sapien nisi nec lectus. Ut id erat tristique, porttitor lacus eu, gravida lacus. Vivamus tempor turpis eu leo luctus, vel pellentesque turpis ultrices. Curabitur ut dignissim arcu, eget sagittis ante. Vivamus mi dui, pulvinar dictum volutpat bibendum, tempor sed turpis. Fusce et nulla massa. Phasellus tincidunt malesuada risus id imperdiet. Aliquam pellentesque risus sit amet quam accumsan vehicula. Sed ullamcorper enim urna, non luctus mi sodales vitae. Vestibulum id vestibulum felis, id luctus est. Nulla congue eu purus at bibendum.",
+    "background": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et libero sed mi ultrices aliquam viverra non tellus. Cras ultricies tellus non tristique luctus. Phasellus purus ante, ultrices ut augue nec, pharetra suscipit sapien. Donec maximus diam lacus, fringilla pulvinar dui finibus ac. Donec molestie, mauris eget tristique aliquet, metus nibh sagittis ante, eu dapibus tellus sapien vel lectus. Vivamus a mi magna. Mauris non nisl magna. Pellentesque interdum enim at tellus porttitor, id feugiat diam aliquam. Donec est lectus, faucibus ut porttitor et, dictum id tortor. Etiam aliquam massa in purus tempor ultrices. Praesent porttitor ante vitae placerat blandit.",
+    "experience1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "experience2": "Praesent mollis arcu ac velit tempor pretium.",
+    "experience3": "Aliquam in urna eget nisl tincidunt iaculis.",
+    "ademic1": "Sed eget ligula sed augue fermentum cursus.",
+    "ademic2": "Nullam vulputate leo ut lorem suscipit eleifend.",
+    "courses1": "Proin volutpat nunc tempus libero commodo, sed euismod nulla dignissim.",
+    "courses2": "Vestibulum aliquam neque mollis lectus viverra aliquam.",
+    "languanges1": "Nullam mattis felis dictum ligula pretium iaculis.",
+    "languanges2": "Fusce tincidunt urna et dui tempor accumsan ac eu nisi."
+  }
+}

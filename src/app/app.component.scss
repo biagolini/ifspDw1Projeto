@@ -1,0 +1,49 @@
+h1 {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 3em;
+  color: #425264;
+  letter-spacing: 2px;
+  margin: 1em 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  text-indent: 3rem;
+}
+
+.bg-flags {
+  background-color: rgb(50, 50, 50);
+}
+
+.flags {
+  width: 25px;
+  height: auto;
+}
+
+.page {
+  width: 100%;
+  background-color: #425264;
+  display: flex;
+  justify-content: center;
+}
+
+.cv-page {
+  max-width: 750px;
+}
+
+.cv-head {
+  background: #788fa8;
+}
+
+.cv-body {
+  background: #ffffff;
+}
+
+.cv-description {
+  padding: 0 20px;
+}
